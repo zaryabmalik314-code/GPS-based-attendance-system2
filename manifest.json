@@ -4,9 +4,9 @@
   "display": "standalone",
   "name": "LGU Attendance",
   "orientation": "any",
-  "scope": "/",
+"scope": "/GPS-based-attendance-system2/",
   "short_name": "LGU Attendance",
-  "start_url": "/",
+"start_url": "/GPS-based-attendance-system2/",
   "theme_color": "#0f2860",
   "icons": [
     {
